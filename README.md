@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Yash Ingle!
+  
+🎓 Third-year **B.Tech student** | **Aspiring Software Engineer**  
+💡 Love building **AI-powered projects, web apps, and scalable systems**  
+📌 Strong in **Java,JavaScript, SQL, and APIs**  
+🔍 Currently exploring **Frontend Development**  
 
-<!--
-**Yashingle1307/Yashingle1307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Skills & Learning  
+- 💻 **Frontend Development** (React)  
+- 📚 **DSA in Java** for problem-solving  
 
-Here are some ideas to get you started:
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yash%20Ingle-blue?logo=linkedin)](https://www.linkedin.com/in/yash-ingle/)  
+[![Email](https://img.shields.io/badge/Email-yashingle1307@gmail.com-red?logo=gmail)](mailto:yashingle1307@gmail.com)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+💡 _"Perseverance is my strength – I never give up easily!"_ 🚀
