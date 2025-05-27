@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yash Ingle!
   
-🎓 Third-year **B.Tech student** | **Aspiring Software Engineer**  
+🎓 Final-year **B.Tech student** | **Aspiring Software Engineer**  
 💡 Love building **AI-powered projects, web apps, and scalable systems**  
 📌 Strong in **Java,JavaScript, SQL, and APIs**  
 🔍 Currently exploring **Frontend Development**  
