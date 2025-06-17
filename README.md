@@ -3,7 +3,6 @@
 🎓 Final-year **B.Tech Student** | 💻 **Aspiring Software Engineer**  
 💡 Passionate about building **web applications**
 🧑‍💻 **Full Stack Developer**
-📌 Proficient in **Java, JavaScript, SQL, and RESTful APIs**
 
 ---
 
@@ -23,4 +22,4 @@
 
 ---
 
-💬 _“Perseverance is my strength – I never give up easily!”_ 🔥
+💬 _“Perseverance is my strength – I never give up easily!”_ 
