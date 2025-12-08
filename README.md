@@ -1,14 +1,12 @@
 # 👋 Hi, I'm Yash Ingle!
 
 🎓 Final-year **B.Tech Student** | 💻 **Aspiring Software Engineer**  
-💡 Passionate about building **web applications**
-🧑‍💻 **Full Stack Developer**
+🧑‍💻 **Mern Stack Developer**
 
 ---
 
 ## 🚀 Skills & Learning
-
-- 🧠 **Data Structures & Algorithms** (Java)
+- 🧠 **Data Structures & Algorithms**
 - 🌐 **Full Stack Web Development**
 - 🛠️ Backend: Node.js, Express  
 - 🎨 Frontend: React, HTML, CSS, Tailwind  
