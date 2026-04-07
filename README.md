@@ -1,7 +1,6 @@
 # 🚀 Hey, I'm Yash Ingle
 
-🎓 Final-Year **B.Tech Student** /n
-💻 **Aspiring Software Engineer**
+🎓 Final-Year B.Tech Student • 💻 Aspiring Software Engineer 🚀
 
 ---
 
