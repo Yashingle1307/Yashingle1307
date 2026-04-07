@@ -1,8 +1,7 @@
 # 🚀 Hey, I'm Yash Ingle
 
-🎓 Final-Year **B.Tech Student**
+🎓 Final-Year **B.Tech Student** /n
 💻 **Aspiring Software Engineer**
-⚡ **Full Stack Developer** passionate about building scalable and impactful applications
 
 ---
 
